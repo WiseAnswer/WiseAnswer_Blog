@@ -5,6 +5,8 @@ updated: '2022-12-28 01:54:45'
 tags:
   - Code
   - VSCode
+categories:
+  - Code
 comments: true
 ---
 
