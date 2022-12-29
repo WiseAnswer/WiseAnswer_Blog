@@ -5,15 +5,14 @@
 menu:
   主页: / || fas fa-home
   归档: /archives/ || fas fa-archive
-  CMS : /admin/ || fas fa-admin
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
   # Link: /link/ || fas fa-link
-  About: /about/ || fas fa-heart
-
+  #About: /about/ || fas fa-heart
+  CMS : /admin/ || fas fa-list
 # Code Blocks (代碼相關)
 # --------------------------------------
 
