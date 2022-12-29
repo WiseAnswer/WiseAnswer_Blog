@@ -2,6 +2,8 @@
 title: Hello World
 date: '2022-12-28 00:05:24'
 updated: '2022-12-28 00:05:24'
+tags: [狗屁不通,HelloWorld]
+categories: 狗屁不通文章生成器
 ---
 `HelloWorld`是万物的基础
 
