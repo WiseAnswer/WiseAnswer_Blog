@@ -43,3 +43,4 @@ collections:
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Permalink", name: "permalink", widget: "string", required: false}
       - {label: "Comments", name: "comments", widget: "boolean", default: true, required: false}
+      - {label: "Katex", name: "mathjax", widget: "boolean", default: true, required: false}
