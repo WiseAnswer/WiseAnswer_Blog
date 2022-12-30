@@ -623,11 +623,13 @@ beautify:
 
 # Global font settings
 # Don't modify the following settings unless you know how they work (非必要不要修改)
+# Global font settings
+# Don't modify the following settings unless you know how they work (非必要不要修改)
 font:
-  global-font-size: 11pt
+  global-font-size: 16px # 站点字体太小了，我调到16px
   code-font-size:
-  font-family:
-  code-font-family:
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Lato, Roboto, "PingFang SC", "Microsoft JhengHei", "Microsoft YaHei", sans-serif
+  code-font-family: consolas, Menlo, "PingFang SC", "Microsoft JhengHei", "Microsoft YaHei", sans-serif
 
 # Font settings for the site title and site subtitle
 # 左上角網站名字 主頁居中網站名字
