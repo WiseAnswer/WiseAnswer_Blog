@@ -2,6 +2,11 @@
 title: 关于 VSCode 便携版 计划可行性
 date: '2022-12-28 01:54:45'
 updated: '2022-12-28 01:54:45'
+tags:
+  - Code
+  - VSCode
+categories:
+  - Code
 comments: true
 ---
 
