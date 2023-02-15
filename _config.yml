@@ -5,7 +5,7 @@
 # Site
 title: WiseAnswer的部落阁
 subtitle: 'WiseAnswer is wise!!'
-description: '我就是那个你梦寐以求的WA'
+description: ''
 keywords:
 author: WiseAnswer
 language: zh-CN
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://blog.wiseanswer.ml
+url: https://wiseanswer.tk
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
